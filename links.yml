@@ -6,7 +6,7 @@
 title: AI菩提
 site_name: AI菩提
 # 网站 LOGO（可选）
-logo: http://fileserver.aiputi.cn/logo.png
+logo: http://fileserver.aiputi.cn/logo_bw.png
 # 网址导航页面关键字（可选）
 keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全,GenEasy,Github,Github Pages,SSG
 # 网址导航页面描述（可选）
@@ -34,9 +34,9 @@ friendship_links_url: https://geneasy.github.io/links/
 ## 导航栏
 ################
 navigation_urls:
-  - title: AI论坛
+  - title: AI 论坛
     url: http://www.aiputi.cn/
-  - title: AI导航
+  - title: AI 导航
     url: http://nav.aiputi.cn/
 
 ################
@@ -71,25 +71,25 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
-      - title: DTO
+      - title: 文心一言
         logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://dto.pipecraft.net/
-        description: 一个类似 Hacker News, Lobsters 的链接分享社区
-        tags: 程序员,社区
-      - title: BestXTools 社区
+        url: https://yiyan.baidu.com/
+        description: 百度版的大语言模型对话机器人
+        tags: GPT,工具
+      - title: ChatGPT
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://discuss-cn.bestxtools.com/
-        description: BestXTools 社区是一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+        url: https://chat.openai.com/
+        description: OpenAI开发的大语言模型对话机器人。
         tags: 在线工具,周刊,社区
-      - title: Pipecraft 社区
+      - title: Stable Deffusion
         logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss-cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        url: https://https://beta.dreamstudio.ai/generate/
+        description: 文生图、图生图.... 稳定扩散模型的最佳实践。
         tags: RSS,Atom,聚合新闻,内容订阅
-      - title: 纵横网址导航
+      - title: MidJourney
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://zh.pipecraft.net/
-        description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+        url: https://www.midjourney.com/
+        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
   - category: 程序员博客
