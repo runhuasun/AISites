@@ -103,6 +103,11 @@ categories:
         logo: http://fileserver.aiputi.cn/baidu_logo.png
         url: https://yiyan.baidu.com/
         description: 国内第一个大厂推出的人机对话系统，亲测处理中文对话能力还是可以的，文生图能力比较差。缺点是目前需要申请并排队获得测试账号，大概要等两周。
+      - title: 微软Bing
+        logo: http://fileserver.aiputi.cn/bing_logo.png
+        url: https://www.bing.com/
+        description: 国内使用chatGPT的最好渠道，需要排队但是很快就能排到。后台接入了chatGPT，但是使用的感觉还是要差一点。
+        
 
   - category: AI计算视觉
     icon: linecons-doc
