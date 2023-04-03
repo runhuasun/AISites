@@ -3,7 +3,7 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: AI 菩提
+title: AI菩提
 site_name: AI 网址精选
 # 网站 LOGO（可选）
 #logo: http://fileserver.aiputi.cn/logo_bw.png
@@ -103,14 +103,6 @@ categories:
         logo: http://fileserver.aiputi.cn/baidu_logo.png
         url: https://yiyan.baidu.com/
         description: 国内第一个大厂推出的人机对话系统，亲测处理中文对话能力还是可以的，文生图能力比较差。缺点是目前需要申请并排队获得测试账号，大概要等两周。
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
 
   - category: AI计算视觉
     icon: linecons-doc
