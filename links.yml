@@ -4,7 +4,7 @@
 ################
 # 网站标题
 title: AI 菩提
-site_name: AI 菩提
+site_name: AI 网址精选
 # 网站 LOGO（可选）
 #logo: http://fileserver.aiputi.cn/logo_bw.png
 # 网址导航页面关键字（可选）
@@ -43,67 +43,66 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
-    icon: linecons-star
-    links:
-      - title: 文心一言
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://yiyan.baidu.com/
-        description: 百度版的大语言模型对话机器人
-        tags: GPT,工具
-      - title: ChatGPT
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://chat.openai.com/
-        description: OpenAI开发的大语言模型对话机器人。
-        tags: 在线工具,周刊,社区
-      - title: Stable Deffusion
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://https://beta.dreamstudio.ai/generate/
-        description: 文生图、图生图.... 稳定扩散模型的最佳实践。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: MidJourney
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://www.midjourney.com/
-        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
-        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
+#  - category: 新添加
+#    icon: linecons-star
+#    links:
+#      - title: 文心一言
+#        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+#        url: https://yiyan.baidu.com/
+#        description: 百度版的大语言模型对话机器人
+#        tags: GPT,工具
+#      - title: ChatGPT
+#        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+#        url: https://chat.openai.com/
+#        description: OpenAI开发的大语言模型对话机器人。
+#        tags: 在线工具,周刊,社区
+#      - title: Stable Deffusion
+#        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+#        url: https://https://beta.dreamstudio.ai/generate/
+#        description: 文生图、图生图.... 稳定扩散模型的最佳实践。
+#        tags: RSS,Atom,聚合新闻,内容订阅
+#      - title: MidJourney
+#        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
+#        url: https://www.midjourney.com/
+#        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
+#        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 推荐
-    hide_menu: true
-    icon: linecons-star
-    links:
-      - title: 文心一言
-        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-        url: https://yiyan.baidu.com/
-        description: 百度版的大语言模型对话机器人
-        tags: GPT,工具
-      - title: ChatGPT
-        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
-        url: https://chat.openai.com/
-        description: OpenAI开发的大语言模型对话机器人。
-        tags: 在线工具,周刊,社区
-      - title: Stable Deffusion
-        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://https://beta.dreamstudio.ai/generate/
-        description: 文生图、图生图.... 稳定扩散模型的最佳实践。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: MidJourney
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
-        url: https://www.midjourney.com/
-        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
-        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
+#  - category: 推荐
+#    hide_menu: true
+#    icon: linecons-star
+#    links:
+#      - title: 文心一言
+#        logo: https://dto.pipecraft.net/apple-touch-icon-144.png
+#        url: https://yiyan.baidu.com/
+#        description: 百度版的大语言模型对话机器人
+#        tags: GPT,工具
+#      - title: ChatGPT
+#        logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
+#        url: https://chat.openai.com/
+#        description: OpenAI开发的大语言模型对话机器人。
+#        tags: 在线工具,周刊,社区
+#      - title: Stable Deffusion
+#        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+#        url: https://https://beta.dreamstudio.ai/generate/
+#        description: 文生图、图生图.... 稳定扩散模型的最佳实践。
+#        tags: RSS,Atom,聚合新闻,内容订阅
+#      - title: MidJourney
+#        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">纵</text></svg>
+#        url: https://www.midjourney.com/
+#        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
+#        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
   - category: AI人机对话
     icon: linecons-doc
     links:
-      - title: 等你来加➕
+      - title: Chat GPT
+        logo: http://fileserver.aiputi.cn/chatgpt.png
+        url: https://chat.openai.com/
+        description: 目前公认最强的人机对话系统。缺点是需要科学上网，注册账号还需要国外手机号。另外，免费的是3.5版本，必须付费升级才能使用4.0版本。
+      - title: 文心一言
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
+        url: https://yiyan.baidu.com/
+        description: 国内第一个大厂推出的人机对话系统，亲测处理中文对话能力还是可以的，文生图能力比较差。缺点是目前需要申请并排队获得测试账号，大概要等两周。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/geneasy/nav/issues
