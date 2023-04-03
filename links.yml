@@ -36,8 +36,10 @@ friendship_links_url: http://www.aiputi.cn/
 navigation_urls:
   - title: AI 论坛
     url: http://www.aiputi.cn/
+    logo: https://dto.pipecraft.net/apple-touch-icon-144.png
   - title: AI 导航
     url: http://nav.aiputi.cn/
+    logo: https://dto.pipecraft.net/apple-touch-icon-144.png
 
 ################
 ## 网址导航数据
