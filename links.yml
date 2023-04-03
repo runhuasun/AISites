@@ -109,7 +109,10 @@ categories:
         logo: http://fileserver.aiputi.cn/bing_logo.png
         url: https://www.bing.com/
         description: 国内使用chatGPT的最好渠道，需要排队但是很快就能排到。后台接入了chatGPT，但是使用的感觉还是要差一点。
-        
+      - title: ChatBot免费试用
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: http://gpt.aiputi.cn/
+        description: 可以免费试用的一个对话机器人，基于openAI开发。需要密码，从导航栏进入AI论坛，里面的公告中可以找到密码。       
 
   - category: AI图片创作
     icon: linecons-doc
