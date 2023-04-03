@@ -111,7 +111,7 @@ categories:
         description: 国内使用chatGPT的最好渠道，需要排队但是很快就能排到。后台接入了chatGPT，但是使用的感觉还是要差一点。
         
 
-  - category: AI计算视觉
+  - category: AI图片设计
     icon: linecons-doc
     links:
       - title: Stable Deffusion
