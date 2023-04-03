@@ -92,7 +92,7 @@ categories:
         description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: 程序员博客
+  - category: AI人机对话
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -113,7 +113,7 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 设计师博客
+  - category: AI计算视觉
     icon: linecons-doc
     links:
       - title: 等你来加➕
@@ -133,7 +133,27 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
-  - category: 个人博客
+  - category: AI音频处理
+    icon: linecons-doc
+    links:
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: AI办公应用
     icon: linecons-doc
     links:
       - title: 等你来加➕
