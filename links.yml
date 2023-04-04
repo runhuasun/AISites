@@ -150,19 +150,19 @@ categories:
     icon: linecons-doc
     links:
       - title: AI好导游
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: http://fileserver.aiputi.cn/logo/trip_logo.png
         url: http://gpt.aiputi.cn/?actor=trip
         description: 我的私人导游和旅行顾问
       - title: AI好医生
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: http://fileserver.aiputi.cn/logo/doctor_logo.png
         url: http://gpt.aiputi.cn/?actor=doctor
         description: 我的私人家庭医生
       - title: AI好律师
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: http://fileserver.aiputi.cn/logo/lawyer_logo.png
         url: http://gpt.aiputi.cn/?actor=lawyer
         description: 我的私人律师
       - title: AI好秘书
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: http://fileserver.aiputi.cn/logo/secretary_logo.png
         url: http://gpt.aiputi.cn/?actor=secretary
         description: 我的私人秘书助理
 
