@@ -145,30 +145,26 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
         description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
-        description: 快来提交你的网站吧
 
-  - category: AI办公应用
+  - category: AI好帮手
     icon: linecons-doc
     links:
-      - title: 等你来加➕
+      - title: AI好导游
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
+        url: http://gpt.aiputi.cn/?actor=trip
+        description: 我的私人导游和旅行顾问
+      - title: AI好医生
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
+        url: http://gpt.aiputi.cn/?actor=doctor
+        description: 我的私人家庭医生
+      - title: AI好律师
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
+        url: http://gpt.aiputi.cn/?actor=lawyer
+        description: 我的私人律师
+      - title: AI好秘书
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
-        description: 快来提交你的网站吧
+        url: http://gpt.aiputi.cn/?actor=secretary
+        description: 我的私人秘书助理
 
   - category: AI社区
     icon: linecons-doc
