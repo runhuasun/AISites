@@ -147,7 +147,7 @@ categories:
         logo: http://fileserver.aiputi.cn/dalle-logo.png
         url: https://openai.com/product/dall-e-2/
         description: OpenAI开发的图片创作工具，效果比SD和MJ要差一点，需要的提示词也比较独特。
-       - title: AI装修大师
+      - title: AI装修大师
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/
         description: 只要拍照上传一张房间现在的照片，就能马上生成你想要的装修风格效果图。测试期间完全免费！       
