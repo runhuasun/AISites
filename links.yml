@@ -36,7 +36,7 @@ friendship_links_url: http://www.aiputi.cn/
 navigation_urls:
   - title: AI 论坛
     url: http://bbs.aiputi.cn/
-   - title: AI 导航
+  - title: AI 导航
     url: http://nav.aiputi.cn/
 
 ################
