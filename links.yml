@@ -14,9 +14,9 @@ description: 网址导航静态页面通用模板。
 # 网址导航页面 URL（可选）
 url: http://nav.aiputi.cn/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: http://fileserver.aiputi.cn/logo.png
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: http://fileserver.aiputi.cn/logo.png
 # 主页 URL
 home_url: http://nav.aiputi.cn/
 # GitHub 链接（可选）
@@ -36,10 +36,8 @@ friendship_links_url: http://www.aiputi.cn/
 navigation_urls:
   - title: AI 论坛
     url: http://bbs.aiputi.cn/
-    logo: https://dto.pipecraft.net/apple-touch-icon-144.png
-  - title: AI 导航
+   - title: AI 导航
     url: http://nav.aiputi.cn/
-    logo: https://dto.pipecraft.net/apple-touch-icon-144.png
 
 ################
 ## 网址导航数据
@@ -170,6 +168,6 @@ categories:
     icon: linecons-doc
     links:
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: http://fileserver.aiputi.cn/logo.png
         url: http://bbs.aiputi.cn/forum.php?mod=post&action=newthread&fid=12
         description: 快来提交你的网站吧
