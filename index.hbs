@@ -355,15 +355,5 @@
     <script src="https://cdn.jsdelivr.net/gh/pzwd-net/webstack-assets@main/js/xenon-custom.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/pzwd-net/webstack-assets@main/js/lozad.js"></script>
     
-    {{#if ga_tracking_code_id}}
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ga_tracking_code_id}}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ga_tracking_code_id}}');
-    </script>
-    {{/if}}
  </body>
 </html>
