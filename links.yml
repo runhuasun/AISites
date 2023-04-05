@@ -118,19 +118,23 @@ categories:
       - title: AI好导游
         logo: http://fileserver.aiputi.cn/logo/trip_logo.png
         url: http://gpt.aiputi.cn/?actor=trip
-        description: 我的私人导游和旅行顾问
+        description: 我的私人导游和旅行顾问，对于全球大部分国家和景区都能给出旅行建议！
       - title: AI好医生
         logo: http://fileserver.aiputi.cn/logo/doctor_logo.png
         url: http://gpt.aiputi.cn/?actor=doctor
-        description: 我的私人家庭医生
+        description: 我的私人家庭医生，对于常见的病症能够给出初步的建议，更深入的治疗要去找医生哦！
       - title: AI好律师
         logo: http://fileserver.aiputi.cn/logo/lawyer_logo.png
         url: http://gpt.aiputi.cn/?actor=lawyer
-        description: 我的私人律师
+        description: 我的私人律师，熟悉中外法律，为我提供各种初步的法律建议。
       - title: AI好秘书
         logo: http://fileserver.aiputi.cn/logo/secretary_logo.png
         url: http://gpt.aiputi.cn/?actor=secretary
-        description: 我的私人秘书小雅
+        description: 我的私人秘书小雅，熟悉各种公文写作，了解商场上的人情世故！
+      - title: AI好老师
+        logo: http://fileserver.aiputi.cn/logo/teacher_logo.png
+        url: http://gpt.aiputi.cn/?actor=teacher
+        description: 我的一对一私人老师，能为我讲解从小学到高中的各学课问题。
 
   - category: AI图片设计
     icon: linecons-doc
