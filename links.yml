@@ -167,6 +167,10 @@ categories:
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/cartoon
         description: 用AI生成超可爱的卡通美女。测试期间完全免费！      
+      - title: 照片背景AI替换
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/changeBG
+        description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。测试期间完全免费！   
         
   - category: AI音频处理
     icon: linecons-doc
