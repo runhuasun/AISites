@@ -154,23 +154,27 @@ categories:
       - title: SD2.1 在线试用
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/text2img
-        description: Stable Deffusion的最新版本。发挥你的想象力，可以让AI帮你设计一切你想要的。测试期间完全免费！             
+        description: Stable Deffusion的最新版本。发挥你的想象力，可以让AI帮你设计一切你想要的。             
       - title: AI装修大师
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/
-        description: 只要拍照上传一张房间现在的照片，就能马上生成你想要的装修风格效果图。测试期间完全免费！  
+        description: 只要拍照上传一张房间现在的照片，就能马上生成你想要的装修风格效果图。  
       - title: AI在线设计LOGO
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/logoDesign
-        description: 极简极快的LOGO设计AI工具。测试期间完全免费！  
+        description: 极简极快的LOGO设计AI工具。 
       - title: AI生成卡通美女
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/cartoon
-        description: 用AI生成超可爱的卡通美女。测试期间完全免费！      
+        description: 用AI生成超可爱的卡通美女。   
       - title: 照片背景AI替换
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/changeBG
-        description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。测试期间完全免费！   
+        description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。  
+      - title: AI生成模拟真实照片
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/changeBG
+        description: 用AI生成出类似真实照片效果的图片，可以是人物特写，也可以是房屋或景色。         
         
   - category: AI音频处理
     icon: linecons-doc
