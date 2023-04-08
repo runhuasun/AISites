@@ -136,7 +136,7 @@ categories:
         url: https://www.aizhuangxiu.club/photo2cartoon
         description: 用AI把照片生成卡通效果，可以有两种漫画风格天空之城作者，或者天气之子作者。   
         
-    - category: AI人机对话
+  - category: AI人机对话
     icon: linecons-doc
     links:
       - title: Chat GPT
