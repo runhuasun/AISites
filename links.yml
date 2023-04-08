@@ -92,7 +92,7 @@ categories:
 #        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
 #        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: AI图片设计
+  - category: AI图片设计工具
     icon: linecons-doc
     links:
       - title: SD2.1 在线版
