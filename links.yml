@@ -111,6 +111,7 @@ navigation_urls:
 #        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
 #        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
+categories:
   - category: AI图片工具
     icon: linecons-doc
     links:
