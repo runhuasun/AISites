@@ -131,7 +131,11 @@ categories:
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/analog
         description: 用AI生成出类似真实照片效果的图片，可以是人物特写，也可以是房屋或景色。         
-  
+      - title: AI生成照片的漫画效果
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/photo2cartoon
+        description: 用AI把照片生成卡通效果，可以有两种漫画风格天空之城作者，或者天气之子作者。   
+        
     - category: AI人机对话
     icon: linecons-doc
     links:
