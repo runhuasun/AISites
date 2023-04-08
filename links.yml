@@ -189,19 +189,19 @@ navigation_urls:
         tags: 2PT/100字对话, VIP半价
 
 
-  - category: AI音频处理
-    icon: linecons-doc
-    links:
-      - title: 讯飞制作
-        logo: http://fileserver.aiputi.cn/xfzz_logo.png
-        url: https://peiyin.xunfei.cn/
-        description: 输入文字生成配音，也可以用它提供的虚拟人生成视频配音效果。免费试用后会收费。
-      - title: voice.ai
-        logo: http://fileserver.aiputi.cn/voiceai_logo.png
-        url: https://voice.ai/
-        description: 可以把你的声音变换成其它人的配音，比如可以让川普来读你的演讲稿。需要下载软件，对机器性能要求很高。每天一条免费配音。
+#  - category: AI音频处理
+#    icon: linecons-doc
+#    links:
+#      - title: 讯飞制作
+#        logo: http://fileserver.aiputi.cn/xfzz_logo.png
+#        url: https://peiyin.xunfei.cn/
+#        description: 输入文字生成配音，也可以用它提供的虚拟人生成视频配音效果。免费试用后会收费。
+#      - title: voice.ai
+#        logo: http://fileserver.aiputi.cn/voiceai_logo.png
+#        url: https://voice.ai/
+#        description: 可以把你的声音变换成其它人的配音，比如可以让川普来读你的演讲稿。需要下载软件，对机器性能要求很高。每天一条免费配音。
 
-  - category: 更多AI好工具
+  - category: 更多AI好应用
     icon: linecons-doc
     links:
       - title: 等你来加➕
