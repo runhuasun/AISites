@@ -173,7 +173,7 @@ categories:
         description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。  
       - title: AI生成模拟真实照片
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
-        url: https://www.aizhuangxiu.club/changeBG
+        url: https://www.aizhuangxiu.club/analog
         description: 用AI生成出类似真实照片效果的图片，可以是人物特写，也可以是房屋或景色。         
         
   - category: AI音频处理
