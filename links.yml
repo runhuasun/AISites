@@ -92,7 +92,7 @@ categories:
 #        description: V2版本超炫的图片生成效果。要登录到他的Discord社区才可以用哦！
 #        tags: 网址导航,中文垂直社区,微社区,垂直网址导航
 
-  - category: AI图片设计工具
+  - category: AI图片工具
     icon: linecons-doc
     links:
       - title: SD2.1 在线版
@@ -110,11 +110,6 @@ categories:
         url: https://www.aizhuangxiu.club/logoDesign
         description: 极简极快的LOGO设计AI工具。 
         tags: 2PT/次生成, VIP半价
-      - title: AI生成卡通美女
-        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
-        url: https://www.aizhuangxiu.club/cartoon
-        description: 用AI生成超可爱的卡通美女。
-        tags: 4PT/次生成, VIP半价
       - title: 照片背景AI替换
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/changeBG
@@ -130,7 +125,21 @@ categories:
         url: https://www.aizhuangxiu.club/photo2cartoon
         description: 用AI把照片生成卡通效果，可以有两种漫画风格天空之城作者，或者天气之子作者。
         tags: 10PT/次生成, VIP半价
-        
+ 
+  - category: AI风格模型
+    icon: linecons-doc
+    links:
+      - title: 最终幻想风
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/dreamshape
+        description: 最终幻想风格，擅长人物的塑造，真实感与美感爆棚。 
+        tags: 4PT/次生成, VIP半价            
+      - title: 卡通美女风
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/cartoon
+        description: 用AI生成超可爱的卡通美女。
+        tags: 4PT/次生成, VIP半价        
+
   - category: AI人机对话
     icon: linecons-doc
     links:
