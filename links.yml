@@ -120,26 +120,26 @@ categories:
         url: https://www.aizhuangxiu.club/text2img
         description: Stable Deffusion的最新版本。发挥你的想象力，可以让AI帮你设计一切你想要的。   
         tags: 1PT/次生成, VIP半价
-      - title: AI在线设计LOGO
-        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
-        url: https://www.aizhuangxiu.club/logoDesign
-        description: 极简极快的LOGO设计AI工具。 
-        tags: 2PT/次生成, VIP半价
-      - title: 照片背景AI替换
-        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
-        url: https://www.aizhuangxiu.club/changeBG
-        description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。  
-        tags: 4PT/次生成, VIP半价
       - title: AI生成模拟真实照片
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/analog
         description: 用AI生成出类似真实照片效果的图片，可以是人物特写，也可以是房屋或景色。 
         tags: 6PT/次生成, VIP半价
-      - title: AI生成照片的漫画效果
+      - title: AI把照片转成漫画效果
         logo: http://fileserver.aiputi.cn/logo/newai_logo.png
         url: https://www.aizhuangxiu.club/photo2cartoon
         description: 用AI把照片生成卡通效果，可以有两种漫画风格天空之城作者，或者天气之子作者。
         tags: 10PT/次生成, VIP半价
+      - title: 照片背景AI替换
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/changeBG
+        description: 用AI替换照片人物的背景，人物边缘越清晰替换效果越好。  
+        tags: 4PT/次生成, VIP半价        
+      - title: AI在线设计LOGO
+        logo: http://fileserver.aiputi.cn/logo/newai_logo.png
+        url: https://www.aizhuangxiu.club/logoDesign
+        description: 极简极快的LOGO设计AI工具，效果偏欧美风。 
+        tags: 2PT/次生成, VIP半价        
  
   - category: AI建筑设计
     icon: linecons-doc
